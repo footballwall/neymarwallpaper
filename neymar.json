@@ -40,21 +40,21 @@
   "Data":
   [
     {
-      "id":1,
+      "id":a (1),
       "name_category": "kolangkaling",
       "title":"a (1)",
       "image":"https://cdn.statically.io/gh/footballwall/neymarwallpaper/main/1.webp",
       "coin":1000
     },
     {
-      "id": 2,
+      "id": a (2),
       "name_category": "kolangkaling",
       "title": "a (2)",
       "image": "https://cdn.statically.io/gh/footballwall/neymarwallpaper/main/2.webp",
       "coin":1000
     },
     {
-      "id":3,
+      "id":a (3),
       "name_category": "kolangkaling",
       "title":"a (3)",
       "image":"https://cdn.statically.io/gh/footballwall/neymarwallpaper/main/3.webp",
